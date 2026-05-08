@@ -14,3 +14,4 @@ _Developer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-05-08] Acceptance Test Cases (TC-01~TC-05)의 E2E 검증 결과를 즉시 실행하고, 특히 TC-05의 데이터 불일치율 0% 달성 여부를 확인하여 개발팀 보고서를 작성하라. → 산출물 sessions/2026-05-08T16-41/developer.md
 - [2026-05-08] Growth Agent로부터 확보된 수익화 후보 가게 데이터와 실제 Supabase 데이터를 대조하여 3.2% 불일치 발생 시나리오(Replay Test Case)를 작성할 준비를 시작하고, 데이터 정합성 확보를 위한 Lock 메커니즘 구현 계획을 확정하라. → 산출물 sessions/2026-05-08T16-51/developer.md
 - [2026-05-08] Business 에이전트가 확정한 출시 승인 기준(ROI, 가치 루프 완성도)을 충족시키기 위해, 데이터 Lock 메커니즘 구현 계획의 Phase 1 구체화 및 Acceptance Test Case (TC-01~TC-05)의 E2E 검증 우선순위를 최종적으로 설정하고 개발팀에 보고하라. → 산출물 sessions/2026-05-08T17-06/developer.md
+- [2026-05-08] 데이터 Lock 메커니즘 구현 계획(P1.2, P1.3)을 즉시 시작하고, Acceptance Test Case (TC-01~TC-05)의 E2E 검증 우선순위 중 가장 중요한 부분(TC-05 관련)에 대한 트랜잭션 원자성 확보를 최우선으로 진행하라. → 산출물 sessions/2026-05-08T17-21/developer.md

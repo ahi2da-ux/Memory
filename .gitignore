@@ -7,3 +7,12 @@ node_modules/
 *.log
 .cache/
 Thumbs.db
+
+# OAuth/API 시크릿 — 절대 커밋 금지
+_company/_agents/youtube/config.md
+_company/_agents/youtube/tools/youtube_account.json
+_company/_agents/youtube/tools/client_secret*.json
+*client_secret*.json
+.env
+.env.*
+!.env.example

@@ -1,0 +1,55 @@
+{
+  "tasks": [
+    {
+      "id": "20260513045033-z5d3",
+      "title": "**반응형 설계:** 모든 컴포넌트는 모바일(375px), 태블릿(768px), 데스크톱(1440px) 기준으로 Breakpoint를 명시하여 구현.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-13T04:50:33.097Z",
+      "status": "done",
+      "sessionDir": "2026-05-13T04-47",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-13T04-47/_report.md\n- 현빈: 확정된 GTM Blueprint를 기반으로 Reddit/Instagram 채널별 초기 사용자 확보 전략을 즉시 실행하여 베타 유저 모집을 시작하\n- Designer: 개발팀에 최종 디자인 시스템을 전달하고, 핵심 랜딩 페이지 시안 3안 개발 착수를 위한 최종 승인 및 필요한 리소스를 확인하라.\n- 레오: 확정된 영상 기획서(특히 데이터 안정성 강조)를 기반으로 유튜브 콘텐츠 제작을 시작하여, 마케팅 자산을 준비하고 첫 번째 영상을 제작할 계획을 \n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: 확정된 GTM Blueprint를 기반으로 Reddit/Instagram 채널별 초기 사용자 확보 전략을 즉시 실행하여 베타 유저 모집을 시작하고, 그 결과를 분석할 계획을 수립하라.\n> 🔧 **도구 실행**: _(",
+      "completedAt": "2026-05-13T04:56:50.575Z"
+    },
+    {
+      "id": "20260513045033-kcsz",
+      "title": "**접근성 (A11y):** 모든 이미지에 Alt Text 필수, 색상 대비율(Contrast Ratio) AA 레벨 이상 확보.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-13T04:50:33.098Z",
+      "status": "done",
+      "sessionDir": "2026-05-13T04-47",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-13T04-47/_report.md\n- 현빈: 확정된 GTM Blueprint를 기반으로 Reddit/Instagram 채널별 초기 사용자 확보 전략을 즉시 실행하여 베타 유저 모집을 시작하\n- Designer: 개발팀에 최종 디자인 시스템을 전달하고, 핵심 랜딩 페이지 시안 3안 개발 착수를 위한 최종 승인 및 필요한 리소스를 확인하라.\n- 레오: 확정된 영상 기획서(특히 데이터 안정성 강조)를 기반으로 유튜브 콘텐츠 제작을 시작하여, 마케팅 자산을 준비하고 첫 번째 영상을 제작할 계획을 \n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: 확정된 GTM Blueprint를 기반으로 Reddit/Instagram 채널별 초기 사용자 확보 전략을 즉시 실행하여 베타 유저 모집을 시작하고, 그 결과를 분석할 계획을 수립하라.\n> 🔧 **도구 실행**: _(",
+      "completedAt": "2026-05-13T04:56:50.576Z"
+    },
+    {
+      "id": "20260513045033-jpp7",
+      "title": "**API 연동:** 사용자 제보/로그인 관련 API 엔드포인트와 데이터 스키마는 개발팀이 정의한 [통신 규격 문서]를 따름.",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-13T04:50:33.098Z",
+      "status": "done",
+      "sessionDir": "2026-05-13T04-47",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-13T04-47/_report.md\n- 현빈: 확정된 GTM Blueprint를 기반으로 Reddit/Instagram 채널별 초기 사용자 확보 전략을 즉시 실행하여 베타 유저 모집을 시작하\n- Designer: 개발팀에 최종 디자인 시스템을 전달하고, 핵심 랜딩 페이지 시안 3안 개발 착수를 위한 최종 승인 및 필요한 리소스를 확인하라.\n- 레오: 확정된 영상 기획서(특히 데이터 안정성 강조)를 기반으로 유튜브 콘텐츠 제작을 시작하여, 마케팅 자산을 준비하고 첫 번째 영상을 제작할 계획을 \n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💼 현빈 _(비즈니스 전략가 · Head of Business)_\n> 📋 **지시**: 확정된 GTM Blueprint를 기반으로 Reddit/Instagram 채널별 초기 사용자 확보 전략을 즉시 실행하여 베타 유저 모집을 시작하고, 그 결과를 분석할 계획을 수립하라.\n> 🔧 **도구 실행**: _(",
+      "completedAt": "2026-05-13T04:56:50.576Z"
+    }
+  ]
+}

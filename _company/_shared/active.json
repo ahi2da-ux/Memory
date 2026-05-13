@@ -11,5 +11,19 @@
   },
   "researcher": {
     "activatedAt": "2026-05-12T15:16:06.923Z"
-  }
+  },
+  "secretary": {
+    "activatedAt": "2026-05-13T04:17:56.264Z"
+  },
+  "youtube": {
+    "activatedAt": "2026-05-13T04:17:56.264Z"
+  },
+  "writer": {
+    "activatedAt": "2026-05-13T04:17:56.264Z"
+  },
+  "designer": {
+    "activatedAt": "2026-05-13T04:17:56.264Z"
+  },
+  "_migrated_v2": true,
+  "_migrated_v3": true
 }
